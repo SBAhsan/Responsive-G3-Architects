@@ -1,0 +1,67 @@
+body {
+    font-family: Work Sans;
+}
+
+/* header css */
+/* nav part */
+
+header {
+    background-color: #FF900E1A;
+}
+
+.navEdit {
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.navTitle {
+    font-size: larger;
+}
+
+.navList {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* header body */
+
+.headerBody {
+    text-align: center;
+}
+
+.headerBodyTitle{
+    margin-top: 40px;
+    font-weight: 700;
+    font-size: 64px;
+}
+
+.headerPara{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.headerButton {
+    background: #FF900E;
+    width: 180px;
+    height: 64px;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    Weight: 600;
+    Size: 20px;
+    margin-top: 20px;
+}
+
+.headerImgDiv{
+    margin-left: 400px;
+}
+
+.headerImage {
+    width: 1000px;
+    margin-left: 250px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
